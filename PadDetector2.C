@@ -2,7 +2,7 @@
  TF3 *f2=new TF3("f2","[0]",0,3000,0,3000,0,3000);   
  f2->SetParameter(0,-5.6);
 
- KStrip *det=new KStrip(7840,7183,3,1,300);      //run Kstrip library
+ KStrip *det=new KStrip(7840,7183,3,1,300);      //Setup diode dimensions and embedded n-doped region dimensions
  det->Voltage=-100;                             //Setup voltage 
  det->SetUpVolume(2);                           //Generate diode volume
  det->SetUpElectrodes();                        //generate electrodes
