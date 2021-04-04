@@ -9,4 +9,8 @@ A program to simulate a pad detector and plot fields and drift paths of electron
  
  The electric field and electric potential across the didoe are plotted in 2D, as well as the weighting field and weighting potential.
  
- The current diode dimensions are those of the ATLAS-18 MD8 pad diode.
+ The current diode dimensions are those of the ATLAS-18 MD8 pad diode. See examples below:
+ 
+ <img width="757" alt="Screenshot 2021-03-16 at 15 22 42" src="https://user-images.githubusercontent.com/81777782/113507174-cb870080-9540-11eb-9ff6-7c0266e7acfe.png">
+<img width="754" alt="Screenshot 2021-03-16 at 17 10 03" src="https://user-images.githubusercontent.com/81777782/113507195-f1140a00-9540-11eb-9e13-808cd3ea91f6.png">
+
