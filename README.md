@@ -1,5 +1,5 @@
 # Pad_detector_simulator
-A program to simulate a pad detector and plot fields and drift paths of electrons and holes.
+A program to simulate a pad detector and plot fields and drift paths of electrons and holes in KDetSim.
 
  The program uses the KDetSim library in root, Cern's open-source data analysis framework. KDetSim may be installed from here: http://kdetsim.org/ and root from here: https://root.cern/install/. Root takes C++ arguments.
  
